@@ -1,2 +1,0 @@
-# pyt
-Assignment 1
